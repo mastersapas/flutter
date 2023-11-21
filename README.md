@@ -1,4 +1,4 @@
-# Instalção do flutter
+# Instalação do flutter
 
 - [A new Flutter project.](https://docs.flutter.dev/get-started/install)
 
